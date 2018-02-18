@@ -1,0 +1,3 @@
+rootProject.name = 'xf_chain_mobile'
+
+include ':app'
